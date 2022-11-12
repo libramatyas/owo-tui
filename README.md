@@ -1,5 +1,6 @@
 ## OwO Bot Currency System TUI
 This is a rework of the original OwO Bot from discord, into a terminal app
+
 **Dear copyright owners of the original OwO Bot, If you have any problems with this repo existing please contact me over at czechian.antilight@gmail.com, and i will take the repository down immediately.**
 
 ## For Linux
