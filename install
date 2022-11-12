@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#first info
+echo [OwO Install] Installation Had Begun
+echo [OwO Install] Note that you need root perms to do this
+
+#build
+g++ main.cpp
+#rename
+mv a.out owo
+#install
+sudo mv owo /usr/bin
+
+#installation success
+echo [OwO Install] Installation Finished Successully!
